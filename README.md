@@ -57,5 +57,5 @@
 
 19. Mettez en œuvre la persistence des messages ou d'autres fonctionnalités avancées.
 
-- Documentation Socket.io : [Socket.io](https://socket.io/docs/v4](https://socket.io/docs/v4/tutorial/introduction)
+- Documentation Socket.io : [Socket.io](https://socket.io/docs/v4/tutorial/introduction/)
 - Documentation Express : [Express.js](https://expressjs.com/)
