@@ -40,27 +40,22 @@
 
 14. Ajoutez la gestion de la déconnexion des utilisateurs.
 
-## Partie 5 : Stylisation avancée
+## Partie 5 : Test et Exécution
 
-15. Créez un fichier CSS (`style.css`) et stylisez l'interface du chat.
-
-16. Utilisez des couleurs attrayantes, des bordures arrondies, et ajustez les marges et les rembourrages pour une apparence propre.
-
-17. Ajoutez des styles pour différencier les messages des utilisateurs.
-
-## Partie 6 : Test et Exécution
-
-18. Exécutez votre serveur en utilisant
+15. Exécutez votre serveur en utilisant
     ```bash
     node app.js
     ```
 
-20. Ouvrez votre navigateur et accédez à l'application de chat.
+16. Ouvrez votre navigateur et accédez à l'application de chat.
 
-21. Testez la fonctionnalité en choisissant des pseudos différents et en envoyant des messages.
+17. Testez la fonctionnalité en choisissant des pseudos différents et en envoyant des messages.
 
 ## Bonus (Optionnel) :
 
-21. Ajoutez des fonctionnalités supplémentaires comme la gestion d'émoticônes, des notifications, ou tout autre élément qui pourrait améliorer l'expérience utilisateur.
+18. Ajoutez des fonctionnalités supplémentaires comme la gestion d'émoticônes, des notifications, ou tout autre élément qui pourrait améliorer l'expérience utilisateur.
 
-22. Mettez en œuvre la persistence des messages ou d'autres fonctionnalités avancées.
+19. Mettez en œuvre la persistence des messages ou d'autres fonctionnalités avancées.
+
+- Documentation Socket.io : [Socket.io](https://socket.io/docs/v4)
+- Documentation Express : [Express.js](https://expressjs.com/)
