@@ -50,11 +50,14 @@
 
 ## Partie 6 : Test et Exécution
 
-18. Exécutez votre serveur en utilisant `node app.js`.
+18. Exécutez votre serveur en utilisant
+    ```bash
+      node app.js
+    ```
 
-19. Ouvrez votre navigateur et accédez à l'application de chat.
+20. Ouvrez votre navigateur et accédez à l'application de chat.
 
-20. Testez la fonctionnalité en choisissant des pseudos différents et en envoyant des messages.
+21. Testez la fonctionnalité en choisissant des pseudos différents et en envoyant des messages.
 
 ## Bonus (Optionnel) :
 
