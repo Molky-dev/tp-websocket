@@ -8,7 +8,7 @@
 
 3. Installez les dépendances nécessaires (Express et Socket.io) en utilisant la commande :
    ```bash
-     npm install express socket.io
+   npm install express socket.io
    ```
    
 
@@ -52,7 +52,7 @@
 
 18. Exécutez votre serveur en utilisant
     ```bash
-      node app.js
+    node app.js
     ```
 
 20. Ouvrez votre navigateur et accédez à l'application de chat.
