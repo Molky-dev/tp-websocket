@@ -9,6 +9,7 @@
 3. Installez les dépendances nécessaires (Express et Socket.io) en utilisant la commande :
    ```bash
      npm install express socket.io
+   ```
    
 
 ## Partie 2 : Configuration du serveur
